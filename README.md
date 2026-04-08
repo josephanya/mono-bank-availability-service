@@ -1,4 +1,4 @@
-# mono-bank-availability-api
+# mono-bank-availability-service
 
 A microservice that monitors bank operational availability by analyzing transaction status codes across different time windows.
 
